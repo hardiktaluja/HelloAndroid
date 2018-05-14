@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="linearLayoutPadding">16dp</dimen>
+    <dimen name="headingTextSize">36sp</dimen>
+    <dimen name="textViewBottomPadding">8dp</dimen>
+    <dimen name="normalTextSize">20sp</dimen>
+    <dimen name="smallTextSize">16sp</dimen>
+</resources>
